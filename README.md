@@ -30,5 +30,6 @@ Erreurs dans le programme :
 - L'affichage de la liste des voitures stationnées est à revoir
 - L'affichage de la recherche de vehicule est à revoir
 - Le menu est à revoir, sont uttilisation (nombre d'action est effectuer) est peu pratique
+- Le prix de la place par rapport au temps ne peut pas être testé car il s'appuis sur le module "LocalDateTime" en heure. Hors le programme ne se démarre que lorsqu'on l'execute ce qui fait que la DateTime reste à 0.
   
 
