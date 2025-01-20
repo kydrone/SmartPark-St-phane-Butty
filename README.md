@@ -21,7 +21,7 @@ https://www.youtube.com/watch?app=desktop&v=VqKZ0tRwUIc&t=740s
 
 
 -> Difficultés : uttilisation/découverte de module jamais uttilisé auparravant. Beaucoup de confusion/erreur dans le code surtout au niveau des class "Static" "Non Static". Intellij est parfait pour résoudre ce genre de problèmes.
-De nombreuses erreurs à cause de la taille du programme par rapport aux programmes vu en cours
+De nombreuses erreurs à cause de la taille du programme par rapport aux programmes vu en cours.
 La difficulté de ce devoir restait le laps de temps donnée pour le réaliser, 2 jours de plus serait parfait pour le rendre meilleur.
 
 Erreurs dans le programme :
