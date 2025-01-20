@@ -6,10 +6,10 @@ public class Main {
         System.out.println("Menu : ");
         java.util.Scanner scanner = new java.util.Scanner(System.in);
         System.out.print("Combien d'actions voulez-vous effectuer dans ce menu ? : ");
-        int maxIterations = scanner.nextInt();
+        int actions = scanner.nextInt();
         scanner.nextLine();
 
-        for (int i = 0; i < maxIterations; i++) {
+        for (int i = 0; i < actions; i++) {
             System.out.println("\nMenu :");
             System.out.println("1. Enregistrer une entrée");
             System.out.println("2. Enregistrer une sortie");
